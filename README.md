@@ -43,12 +43,13 @@ Polynomial regression model developed using scikit-learn library in Python.
 
 Error analysis performed using R-squared, RMSE, MAE, and MAPE metrics.
 
-# Results
+# Results 
+Error Analysis after introduction of novel parameter **Peripheral Length**:
 ![image](https://github.com/ashutoshpanpalia/Ra-prediction/assets/43078289/09797830-2159-47da-a344-f2fb1c31952c)
 
-The polynomial regression model provided an accurate prediction of surface roughness with an R-squared value of 0.8763.
+The polynomial regression model provided an accurate prediction of surface roughness with an R-squared value of 0.8151
 
-RMSE for testing data was 0.8068, indicating good model performance.
+RMSE for testing data was 0.9600, indicating good model performance.
 
 The predictive model showed that surface roughness values increase with the cumulative peripheral length of chips generated during machining.
 
