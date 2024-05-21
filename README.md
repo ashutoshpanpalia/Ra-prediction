@@ -60,3 +60,5 @@ The model successfully identified the tool's working limits and the point at whi
 # Conclusion and Future Scope
 
 The multivariate polynomial regression model developed in this project effectively predicts surface roughness based on cutting parameters and cumulative chip length. This predictive capability can significantly enhance tool life management and machining efficiency. Future work could involve scaling the experiment to industrial levels with more extensive data to improve accuracy. Additionally, similar models could be developed for other machining operations to further optimize production processes.
+
+# Please contact the authors for further details
