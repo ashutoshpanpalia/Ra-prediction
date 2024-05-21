@@ -22,7 +22,9 @@ Surface roughness in turning operations is influenced by cutting speed, feed, an
 ## Materials and Setup:
 
 Mild Steel Rod: Diameter 30 mm, Length 220 mm.
+
 CNC Turning Centre: Model LL20TL3.
+
 H-400 10% Cobalt High-Speed Steel Tool.
 
 ## Surface Roughness Tester: 
