@@ -60,7 +60,9 @@ The model successfully identified the tool's working limits and the point at whi
 
 # Setup photos:
 ![image](https://github.com/ashutoshpanpalia/Surface_roughness_prediction_with_AI/assets/43078289/ef01b20e-5d02-407e-b495-8225237d6926)
+
 ![image](https://github.com/ashutoshpanpalia/Surface_roughness_prediction_with_AI/assets/43078289/815ab3d5-f53e-4805-a290-6858c941d35f)
+
 ![image](https://github.com/ashutoshpanpalia/Surface_roughness_prediction_with_AI/assets/43078289/ce3d6334-7bc4-40b2-834f-81e169783d69)
 
 
